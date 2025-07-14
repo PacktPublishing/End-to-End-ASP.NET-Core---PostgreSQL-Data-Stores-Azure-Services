@@ -1,0 +1,84 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <h1 class="display-5 fw-bold">Welcome to Neon CRM</h1>
+        <p class="lead text-muted">Empowering travel agents to manage customer bookings, schedules, and packages effortlessly.</p>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="bi bi-people-fill me-2"></i>Customers</h5>
+                    <h2 class="card-text">1,240</h2>
+                    <p class="text-white-50 mb-0">Active Customers</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="bi bi-airplane me-2"></i>Bookings</h5>
+                    <h2 class="card-text">312</h2>
+                    <p class="text-white-50 mb-0">Trips Booked This Month</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="bi bi-globe me-2"></i>Destinations</h5>
+                    <h2 class="card-text">86</h2>
+                    <p class="text-white-50 mb-0">Available Destinations</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-white bg-danger mb-3">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="bi bi-calendar-event me-2"></i>Upcoming Trips</h5>
+                    <h2 class="card-text">47</h2>
+                    <p class="text-white-50 mb-0">Scheduled for This Week</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card mb-4">
+                <div class="card-header bg-light">
+                    <h5 class="mb-0">About This CRM</h5>
+                </div>
+                <div class="card-body">
+                    <p>Neon CRM is your all-in-one platform for managing customer relationships, booking itineraries, and tracking travel plans for your clients. Designed for travel agents and tour operators, it offers:</p>
+                    <ul>
+                        <li>Customer profile and history tracking</li>
+                        <li>Customizable tour packages</li>
+                        <li>Booking management and scheduling</li>
+                        <li>Dashboard for insights and reports</li>
+                    </ul>
+                    <p class="mb-0">Start managing your travel business with ease and deliver an exceptional experience to your clients.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Quick Links</h5>
+                    <div class="list-group">
+                        <a href="#" class="list-group-item list-group-item-action">Manage Bookings</a>
+                        <a href="#" class="list-group-item list-group-item-action">Customer Directory</a>
+                        <a href="#" class="list-group-item list-group-item-action">Tour Packages</a>
+                        <a href="#" class="list-group-item list-group-item-action">Reports & Insights</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
