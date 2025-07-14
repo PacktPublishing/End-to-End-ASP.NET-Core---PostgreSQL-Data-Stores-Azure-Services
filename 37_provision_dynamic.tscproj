@@ -1,0 +1,973 @@
+{
+  "title" : "", 
+  "description" : "", 
+  "author" : "", 
+  "targetLoudness" : -18.0, 
+  "shouldApplyLoudnessNormalization" : true, 
+  "videoFormatFrameRate" : 30, 
+  "audioFormatSampleRate" : 44100, 
+  "allowSubFrameEditing" : false, 
+  "width" : 3840.0, 
+  "height" : 2160.0, 
+  "version" : "9.0", 
+  "editRate" : 705600000, 
+  "authoringClientName" : {
+    "name" : "Camtasia", 
+    "platform" : "Windows", 
+    "version" : "2025.1.0"
+  }, 
+  "sourceBin" : [
+    {
+      "id" : 1, 
+      "src" : "Rec 2025-05-05-13-12-16.trec", 
+      "rect" : [0, 0, 3840, 2160], 
+      "lastMod" : "20250505T181216", 
+      "loudnessNormalization" : true, 
+      "sourceTracks" : [
+        {
+          "range" : [0, 2408], 
+          "type" : 0, 
+          "editRate" : 30, 
+          "trackRect" : [0, 0, 3840, 2160], 
+          "sampleRate" : "92443/10000", 
+          "bitDepth" : 24, 
+          "numChannels" : 0, 
+          "integratedLUFS" : 100.0, 
+          "peakLevel" : -1.0, 
+          "metaData" : "Rec 2025-05-05-13-12-16.trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;", 
+          "parameters" : {
+          }
+        }, 
+        {
+          "range" : [0, 3539968], 
+          "type" : 2, 
+          "editRate" : 44100, 
+          "trackRect" : [0, 0, 0, 0], 
+          "sampleRate" : 44100, 
+          "bitDepth" : 16, 
+          "numChannels" : 2, 
+          "integratedLUFS" : -30.2145649186888, 
+          "peakLevel" : 0.274383544921875, 
+          "metaData" : "Rec 2025-05-05-13-12-16.trec;", 
+          "parameters" : {
+          }
+        }
+      ], 
+      "metadata" : {
+        "timeAdded" : "20250505T181219.368777"
+      }
+    }, 
+    {
+      "id" : 2, 
+      "src" : "Rec 2025-05-05-13-21-17.trec", 
+      "rect" : [0, 0, 3840, 2160], 
+      "lastMod" : "20250505T182117", 
+      "loudnessNormalization" : true, 
+      "sourceTracks" : [
+        {
+          "range" : [0, 5572], 
+          "type" : 0, 
+          "editRate" : 30, 
+          "trackRect" : [0, 0, 3840, 2160], 
+          "sampleRate" : "77853/10000", 
+          "bitDepth" : 24, 
+          "numChannels" : 0, 
+          "integratedLUFS" : 100.0, 
+          "peakLevel" : -1.0, 
+          "metaData" : "Rec 2025-05-05-13-21-17.trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;", 
+          "parameters" : {
+          }
+        }, 
+        {
+          "range" : [0, 8188928], 
+          "type" : 2, 
+          "editRate" : 44100, 
+          "trackRect" : [0, 0, 0, 0], 
+          "sampleRate" : 44100, 
+          "bitDepth" : 16, 
+          "numChannels" : 2, 
+          "integratedLUFS" : -31.7542460384502, 
+          "peakLevel" : 0.249725341796875, 
+          "metaData" : "Rec 2025-05-05-13-21-17.trec;", 
+          "parameters" : {
+          }
+        }
+      ], 
+      "metadata" : {
+        "timeAdded" : "20250505T182120.505895"
+      }
+    }, 
+    {
+      "id" : 3, 
+      "src" : "Rec 2025-05-05-13-26-28.trec", 
+      "rect" : [0, 0, 3840, 2160], 
+      "lastMod" : "20250505T182628", 
+      "loudnessNormalization" : true, 
+      "sourceTracks" : [
+        {
+          "range" : [0, 2548], 
+          "type" : 0, 
+          "editRate" : 30, 
+          "trackRect" : [0, 0, 3840, 2160], 
+          "sampleRate" : "3909/500", 
+          "bitDepth" : 24, 
+          "numChannels" : 0, 
+          "integratedLUFS" : 100.0, 
+          "peakLevel" : -1.0, 
+          "metaData" : "Rec 2025-05-05-13-26-28.trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;", 
+          "parameters" : {
+          }
+        }, 
+        {
+          "range" : [0, 3746816], 
+          "type" : 2, 
+          "editRate" : 44100, 
+          "trackRect" : [0, 0, 0, 0], 
+          "sampleRate" : 44100, 
+          "bitDepth" : 16, 
+          "numChannels" : 2, 
+          "integratedLUFS" : -31.0629464139131, 
+          "peakLevel" : 0.276214599609375, 
+          "metaData" : "Rec 2025-05-05-13-26-28.trec;", 
+          "parameters" : {
+          }
+        }
+      ], 
+      "metadata" : {
+        "timeAdded" : "20250505T182631.576355"
+      }
+    }, 
+    {
+      "id" : 4, 
+      "src" : "Rec 2025-05-05-13-31-31.trec", 
+      "rect" : [0, 0, 3840, 2160], 
+      "lastMod" : "20250505T183130", 
+      "loudnessNormalization" : true, 
+      "sourceTracks" : [
+        {
+          "range" : [0, 1245], 
+          "type" : 0, 
+          "editRate" : 30, 
+          "trackRect" : [0, 0, 3840, 2160], 
+          "sampleRate" : "39639/5000", 
+          "bitDepth" : 24, 
+          "numChannels" : 0, 
+          "integratedLUFS" : 100.0, 
+          "peakLevel" : -1.0, 
+          "metaData" : "Rec 2025-05-05-13-31-31.trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;", 
+          "parameters" : {
+          }
+        }, 
+        {
+          "range" : [0, 1828864], 
+          "type" : 2, 
+          "editRate" : 44100, 
+          "trackRect" : [0, 0, 0, 0], 
+          "sampleRate" : 44100, 
+          "bitDepth" : 16, 
+          "numChannels" : 2, 
+          "integratedLUFS" : -31.7339156355309, 
+          "peakLevel" : 0.230560302734375, 
+          "metaData" : "Rec 2025-05-05-13-31-31.trec;", 
+          "parameters" : {
+          }
+        }
+      ], 
+      "metadata" : {
+        "timeAdded" : "20250505T183133.090005"
+      }
+    }, 
+    {
+      "id" : 5, 
+      "src" : "Rec 2025-05-05-13-36-09.trec", 
+      "rect" : [0, 0, 3840, 2160], 
+      "lastMod" : "20250505T183609", 
+      "loudnessNormalization" : true, 
+      "sourceTracks" : [
+        {
+          "range" : [0, 5440], 
+          "type" : 0, 
+          "editRate" : 30, 
+          "trackRect" : [0, 0, 3840, 2160], 
+          "sampleRate" : "67389/10000", 
+          "bitDepth" : 24, 
+          "numChannels" : 0, 
+          "integratedLUFS" : 100.0, 
+          "peakLevel" : -1.0, 
+          "metaData" : "Rec 2025-05-05-13-36-09.trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;", 
+          "parameters" : {
+          }
+        }, 
+        {
+          "range" : [0, 8005632], 
+          "type" : 2, 
+          "editRate" : 44100, 
+          "trackRect" : [0, 0, 0, 0], 
+          "sampleRate" : 44100, 
+          "bitDepth" : 16, 
+          "numChannels" : 2, 
+          "integratedLUFS" : -31.2897712752631, 
+          "peakLevel" : 0.28704833984375, 
+          "metaData" : "Rec 2025-05-05-13-36-09.trec;", 
+          "parameters" : {
+          }
+        }
+      ], 
+      "metadata" : {
+        "timeAdded" : "20250505T183612.336274"
+      }
+    }
+  ], 
+  "timeline" : {
+    "id" : 6, 
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0, 
+                "medias" : [
+                  {
+                    "id" : 7, 
+                    "_type" : "UnifiedMedia", 
+                    "video" : 
+                      {
+                        "id" : 8, 
+                        "_type" : "ScreenVMFile", 
+                        "src" : 2, 
+                        "trackNumber" : 0, 
+                        "attributes" : {
+                          "ident" : "Rec 2025-05-05-13-21-17"
+                        }, 
+                        "parameters" : {
+                          "geometryCrop0" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop1" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop2" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop3" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "cursorScale" : {
+                            "type" : "double", 
+                            "defaultValue" : 2.25, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorOpacity" : {
+                            "type" : "double", 
+                            "defaultValue" : 1.0, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorTrackLevel" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "linr"
+                          }, 
+                          "smoothCursorAcrossEditDuration" : 235200000
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 0, 
+                        "duration" : 3316320000, 
+                        "mediaStart" : 68937120000, 
+                        "mediaDuration" : 3316320000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "audio" : 
+                      {
+                        "id" : 9, 
+                        "_type" : "AMFile", 
+                        "src" : 2, 
+                        "trackNumber" : 1, 
+                        "attributes" : {
+                          "ident" : "", 
+                          "gain" : 1.0, 
+                          "mixToMono" : false, 
+                          "loudnessNormalization" : true, 
+                          "sourceFileOffset" : 0
+                        }, 
+                        "channelNumber" : "0,1", 
+                        "parameters" : {
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 0, 
+                        "duration" : 3316320000, 
+                        "mediaStart" : 68937120000, 
+                        "mediaDuration" : 3316320000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "effects" : [
+                    ], 
+                    "start" : 0, 
+                    "duration" : 3316320000, 
+                    "mediaStart" : 68937120000, 
+                    "mediaDuration" : 3316320000, 
+                    "scalar" : 1, 
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False", 
+                      "audiateLinkedSession" : "", 
+                      "clipSpeedAttribute" : 
+                        {
+                          "type" : "bool", 
+                          "value" : false
+                        }, 
+                      "colorAttribute" : 
+                        {
+                          "type" : "color", 
+                          "value" : [ 0, 0, 0, 0]
+                        }
+                    }
+                  }, 
+                  {
+                    "id" : 10, 
+                    "_type" : "UnifiedMedia", 
+                    "video" : 
+                      {
+                        "id" : 11, 
+                        "_type" : "ScreenVMFile", 
+                        "src" : 2, 
+                        "trackNumber" : 0, 
+                        "attributes" : {
+                          "ident" : "Rec 2025-05-05-13-21-17"
+                        }, 
+                        "parameters" : {
+                          "geometryCrop0" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop1" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop2" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop3" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "cursorScale" : {
+                            "type" : "double", 
+                            "defaultValue" : 2.25, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorOpacity" : {
+                            "type" : "double", 
+                            "defaultValue" : 1.0, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorTrackLevel" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "linr"
+                          }, 
+                          "smoothCursorAcrossEditDuration" : 235200000
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 3316320000, 
+                        "duration" : 18510240000, 
+                        "mediaStart" : 72723840000, 
+                        "mediaDuration" : 18510240000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "audio" : 
+                      {
+                        "id" : 12, 
+                        "_type" : "AMFile", 
+                        "src" : 2, 
+                        "trackNumber" : 1, 
+                        "attributes" : {
+                          "ident" : "", 
+                          "gain" : 1.0, 
+                          "mixToMono" : false, 
+                          "loudnessNormalization" : true, 
+                          "sourceFileOffset" : 0
+                        }, 
+                        "channelNumber" : "0,1", 
+                        "parameters" : {
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 3316320000, 
+                        "duration" : 18510240000, 
+                        "mediaStart" : 72723840000, 
+                        "mediaDuration" : 18510240000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "effects" : [
+                    ], 
+                    "start" : 3316320000, 
+                    "duration" : 18510240000, 
+                    "mediaStart" : 72723840000, 
+                    "mediaDuration" : 18510240000, 
+                    "scalar" : 1, 
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False", 
+                      "audiateLinkedSession" : "", 
+                      "clipSpeedAttribute" : 
+                        {
+                          "type" : "bool", 
+                          "value" : false
+                        }, 
+                      "colorAttribute" : 
+                        {
+                          "type" : "color", 
+                          "value" : [ 0, 0, 0, 0]
+                        }
+                    }
+                  }, 
+                  {
+                    "id" : 13, 
+                    "_type" : "UnifiedMedia", 
+                    "video" : 
+                      {
+                        "id" : 14, 
+                        "_type" : "ScreenVMFile", 
+                        "src" : 2, 
+                        "trackNumber" : 0, 
+                        "attributes" : {
+                          "ident" : "Rec 2025-05-05-13-21-17"
+                        }, 
+                        "parameters" : {
+                          "geometryCrop0" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop1" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop2" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop3" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "cursorScale" : {
+                            "type" : "double", 
+                            "defaultValue" : 2.25, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorOpacity" : {
+                            "type" : "double", 
+                            "defaultValue" : 1.0, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorTrackLevel" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "linr"
+                          }, 
+                          "smoothCursorAcrossEditDuration" : 235200000
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 21826560000, 
+                        "duration" : 15146880000, 
+                        "mediaStart" : 92504160000, 
+                        "mediaDuration" : 15146880000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "audio" : 
+                      {
+                        "id" : 15, 
+                        "_type" : "AMFile", 
+                        "src" : 2, 
+                        "trackNumber" : 1, 
+                        "attributes" : {
+                          "ident" : "", 
+                          "gain" : 1.0, 
+                          "mixToMono" : false, 
+                          "loudnessNormalization" : true, 
+                          "sourceFileOffset" : 0
+                        }, 
+                        "channelNumber" : "0,1", 
+                        "parameters" : {
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 21826560000, 
+                        "duration" : 15146880000, 
+                        "mediaStart" : 92504160000, 
+                        "mediaDuration" : 15146880000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "effects" : [
+                    ], 
+                    "start" : 21826560000, 
+                    "duration" : 15146880000, 
+                    "mediaStart" : 92504160000, 
+                    "mediaDuration" : 15146880000, 
+                    "scalar" : 1, 
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False", 
+                      "audiateLinkedSession" : "", 
+                      "clipSpeedAttribute" : 
+                        {
+                          "type" : "bool", 
+                          "value" : false
+                        }, 
+                      "colorAttribute" : 
+                        {
+                          "type" : "color", 
+                          "value" : [ 0, 0, 0, 0]
+                        }
+                    }
+                  }, 
+                  {
+                    "id" : 16, 
+                    "_type" : "UnifiedMedia", 
+                    "video" : 
+                      {
+                        "id" : 17, 
+                        "_type" : "ScreenVMFile", 
+                        "src" : 3, 
+                        "trackNumber" : 0, 
+                        "attributes" : {
+                          "ident" : "Rec 2025-05-05-13-26-28"
+                        }, 
+                        "parameters" : {
+                          "geometryCrop0" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop1" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop2" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop3" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "cursorScale" : {
+                            "type" : "double", 
+                            "defaultValue" : 2.25, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorOpacity" : {
+                            "type" : "double", 
+                            "defaultValue" : 1.0, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorTrackLevel" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "linr"
+                          }, 
+                          "smoothCursorAcrossEditDuration" : 235200000
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 36973440000, 
+                        "duration" : 59928960000, 
+                        "mediaStart" : 0, 
+                        "mediaDuration" : 59928960000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "audio" : 
+                      {
+                        "id" : 18, 
+                        "_type" : "AMFile", 
+                        "src" : 3, 
+                        "trackNumber" : 1, 
+                        "attributes" : {
+                          "ident" : "", 
+                          "gain" : 1.0, 
+                          "mixToMono" : false, 
+                          "loudnessNormalization" : true, 
+                          "sourceFileOffset" : 0
+                        }, 
+                        "channelNumber" : "0,1", 
+                        "parameters" : {
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 36973440000, 
+                        "duration" : 59928960000, 
+                        "mediaStart" : 0, 
+                        "mediaDuration" : 59928960000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "effects" : [
+                    ], 
+                    "start" : 36973440000, 
+                    "duration" : 59928960000, 
+                    "mediaStart" : 0, 
+                    "mediaDuration" : 59928960000, 
+                    "scalar" : 1, 
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False", 
+                      "audiateLinkedSession" : "", 
+                      "clipSpeedAttribute" : 
+                        {
+                          "type" : "bool", 
+                          "value" : false
+                        }, 
+                      "colorAttribute" : 
+                        {
+                          "type" : "color", 
+                          "value" : [ 0, 0, 0, 0]
+                        }
+                    }
+                  }, 
+                  {
+                    "id" : 19, 
+                    "_type" : "UnifiedMedia", 
+                    "video" : 
+                      {
+                        "id" : 20, 
+                        "_type" : "ScreenVMFile", 
+                        "src" : 4, 
+                        "trackNumber" : 0, 
+                        "attributes" : {
+                          "ident" : "Rec 2025-05-05-13-31-31"
+                        }, 
+                        "parameters" : {
+                          "geometryCrop0" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop1" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop2" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop3" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "cursorScale" : {
+                            "type" : "double", 
+                            "defaultValue" : 2.25, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorOpacity" : {
+                            "type" : "double", 
+                            "defaultValue" : 1.0, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorTrackLevel" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "linr"
+                          }, 
+                          "smoothCursorAcrossEditDuration" : 235200000
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 96902400000, 
+                        "duration" : 12465600000, 
+                        "mediaStart" : 0, 
+                        "mediaDuration" : 12465600000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "audio" : 
+                      {
+                        "id" : 21, 
+                        "_type" : "AMFile", 
+                        "src" : 4, 
+                        "trackNumber" : 1, 
+                        "attributes" : {
+                          "ident" : "", 
+                          "gain" : 1.0, 
+                          "mixToMono" : false, 
+                          "loudnessNormalization" : true, 
+                          "sourceFileOffset" : 0
+                        }, 
+                        "channelNumber" : "0,1", 
+                        "parameters" : {
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 96902400000, 
+                        "duration" : 12465600000, 
+                        "mediaStart" : 0, 
+                        "mediaDuration" : 12465600000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "effects" : [
+                    ], 
+                    "start" : 96902400000, 
+                    "duration" : 12465600000, 
+                    "mediaStart" : 0, 
+                    "mediaDuration" : 12465600000, 
+                    "scalar" : 1, 
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False", 
+                      "audiateLinkedSession" : "", 
+                      "clipSpeedAttribute" : 
+                        {
+                          "type" : "bool", 
+                          "value" : false
+                        }, 
+                      "colorAttribute" : 
+                        {
+                          "type" : "color", 
+                          "value" : [ 0, 0, 0, 0]
+                        }
+                    }
+                  }, 
+                  {
+                    "id" : 22, 
+                    "_type" : "UnifiedMedia", 
+                    "video" : 
+                      {
+                        "id" : 23, 
+                        "_type" : "ScreenVMFile", 
+                        "src" : 5, 
+                        "trackNumber" : 0, 
+                        "attributes" : {
+                          "ident" : "Rec 2025-05-05-13-36-09"
+                        }, 
+                        "parameters" : {
+                          "geometryCrop0" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop1" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop2" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "geometryCrop3" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "eioe"
+                          }, 
+                          "cursorScale" : {
+                            "type" : "double", 
+                            "defaultValue" : 2.25, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorOpacity" : {
+                            "type" : "double", 
+                            "defaultValue" : 1.0, 
+                            "interp" : "linr"
+                          }, 
+                          "cursorTrackLevel" : {
+                            "type" : "double", 
+                            "defaultValue" : 0.0, 
+                            "interp" : "linr"
+                          }, 
+                          "smoothCursorAcrossEditDuration" : 235200000
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 109368000000, 
+                        "duration" : 89987520000, 
+                        "mediaStart" : 37961280000, 
+                        "mediaDuration" : 89987520000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "audio" : 
+                      {
+                        "id" : 24, 
+                        "_type" : "AMFile", 
+                        "src" : 5, 
+                        "trackNumber" : 1, 
+                        "attributes" : {
+                          "ident" : "", 
+                          "gain" : 1.0, 
+                          "mixToMono" : false, 
+                          "loudnessNormalization" : true, 
+                          "sourceFileOffset" : 0
+                        }, 
+                        "channelNumber" : "0,1", 
+                        "parameters" : {
+                        }, 
+                        "effects" : [
+                        ], 
+                        "start" : 109368000000, 
+                        "duration" : 89987520000, 
+                        "mediaStart" : 37961280000, 
+                        "mediaDuration" : 89987520000, 
+                        "scalar" : 1, 
+                        "animationTracks" : {
+                        }
+                      }, 
+                    "effects" : [
+                    ], 
+                    "start" : 109368000000, 
+                    "duration" : 89987520000, 
+                    "mediaStart" : 37961280000, 
+                    "mediaDuration" : 89987520000, 
+                    "scalar" : 1, 
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False", 
+                      "audiateLinkedSession" : "", 
+                      "clipSpeedAttribute" : 
+                        {
+                          "type" : "bool", 
+                          "value" : false
+                        }, 
+                      "colorAttribute" : 
+                        {
+                          "type" : "color", 
+                          "value" : [ 0, 0, 0, 0]
+                        }
+                    }
+                  }
+                ], 
+                "parameters" : {
+                }
+              }, 
+              {
+                "trackIndex" : 1, 
+                "medias" : [
+                ], 
+                "parameters" : {
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }, 
+    "trackAttributes" : [
+      {
+        "ident" : "", 
+        "audioMuted" : false, 
+        "videoHidden" : false, 
+        "magnetic" : false, 
+        "matte" : 0, 
+        "solo" : false, 
+        "metadata" : {
+          "IsLocked" : "False", 
+          "WinTrackHeight" : "56"
+        }
+      }, 
+      {
+        "ident" : "", 
+        "audioMuted" : false, 
+        "videoHidden" : false, 
+        "magnetic" : false, 
+        "matte" : 0, 
+        "solo" : false, 
+        "metadata" : {
+          "IsLocked" : "False", 
+          "WinTrackHeight" : "56"
+        }
+      }
+    ], 
+    "parameters" : {
+    }, 
+    "captionAttributes" : {
+      "enabled" : true, 
+      "fontName" : "Arial", 
+      "fontSize" : 128, 
+      "backgroundColor" : [ 0, 0, 0, 191], 
+      "foregroundColor" : [ 255, 255, 255, 255], 
+      "lang" : "en", 
+      "alignment" : 0, 
+      "defaultFontSize" : true, 
+      "opacity" : 0.5, 
+      "backgroundEnabled" : true, 
+      "backgroundOnlyAroundText" : true
+    }, 
+    "gain" : 1.0, 
+    "legacyAttenuateAudioMix" : false, 
+    "backgroundColor" : [ 0, 0, 0, 255]
+  }, 
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\Trevoir\\AppData\\Local\\TechSmith\\Camtasia Studio\\25.0\\Auto-Saves\\37_provision_dynamic1f0bd514.autosave.tscproj", 
+    "CanvasZoom" : 
+      {
+        "type" : "int", 
+        "value" : 30
+      }, 
+    "Date" : "2025-05-05 01:05:23 PM", 
+    "IsAutoSave" : 
+      {
+        "type" : "bool", 
+        "value" : false
+      }, 
+    "IsStandalone" : 
+      {
+        "type" : "bool", 
+        "value" : true
+      }, 
+    "Language" : "ENU", 
+    "ProfileName" : "", 
+    "ProjectDimensionsChanged" : "1", 
+    "ProjectThumbnail" : "iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoCAYAAADHMkpRAAAAAXNSR0IArs4c6QAAAARnQU1BAACx\r\njwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAYWSURBVHhe7cgxAcBAEASh82/6I2AdTChouLt7\r\nAAD8ygQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQA\r\nAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0\r\nTQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYB\r\nAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAA\r\nbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRN\r\nAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEA\r\nQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABt\r\nEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0A\r\nANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA\r\n2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0T\r\nAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA\r\n0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDb\r\nBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMA\r\nALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQ\r\nNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsE\r\nAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAA\r\ntE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2\r\nAQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQA\r\nAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0\r\nTQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYB\r\nAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAA\r\nbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRN\r\nAADQNgEAQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEA\r\nQNsEAABtEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABt\r\nEwAAtE0AANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0A\r\nANA2AQBA2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AANA2AQBA\r\n2wQAAG0TAAC0TQAA0DYBAEDbBAAAbRMAALRNAADQNgEAQNsEAABtEwAAtE0AABD2AeYjsIGJBLoM\r\nAAAAAElFTkSuQmCC", 
+    "RulerGuidesX" : [], 
+    "RulerGuidesY" : [], 
+    "RulerShowing" : 
+      {
+        "type" : "bool", 
+        "value" : false
+      }, 
+    "Title" : "37_provision_dynamic", 
+    "audioNarrationNotes" : "", 
+    "calloutStyle" : "Basic"
+  }
+}
